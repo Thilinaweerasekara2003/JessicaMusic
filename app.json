@@ -15,7 +15,7 @@
   ],        
   "env": {
     "SESSION_NAME": {
-      "description": "Pyrogram session string",
+      "description": "https://replit.com/@ChankitSaini/GenerateStringSession",
       "required": true,
       "value": ""
     },
