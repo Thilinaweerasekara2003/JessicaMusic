@@ -93,8 +93,8 @@ For linked group admins only:
 If you donlt like to play in linked channel:
  1. Get your channel ID.
  2. Rename your group to: Channel Music: your_channel_id
- 3. Add [@LexieMusicRobot](https://t.me/LexieMusicRobot) as Channel admin with full perms
- 4. Add helper to channel ([@LexieXMusic](https://t.me/LexieXMusic))
+ 3. Add [@Miss_Jessica_Robot](https://t.me/Miss_Jessica_Robot) as Channel admin with full perms
+ 4. Add helper to channel ([@Miss_Jessica_Robot](https://t.me/Miss_Jessica_Robot))
  5. Simply send commands in your group.
 
 ### Commands for Sudo Users ⚔️
