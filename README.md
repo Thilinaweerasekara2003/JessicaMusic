@@ -5,7 +5,7 @@
 ### Available on telegram as [@Miss_Jessica_Robot](https://t.me/Miss_Jessica_Robot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/dbec3e0aa3acbe2cd31e0.png">
+  <img src="https://telegra.ph/file/cc3cd42578681f6916295.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
