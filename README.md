@@ -1,8 +1,8 @@
 <h1 align="centre">LEXIE MUSIC</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
-#### POWERED BY [MARSHALX TGCALLS](https://github.com/MarshalX/tgcalls)
-### Available on telegram as [@LexieMusicRobot](https://t.me/LexieMusicRobot)
+#### POWERED BY [Thilina Weerasekara](https://github.com/ThilinaWeerasekara)
+### Available on telegram as [@Miss_Jessica_Robot](https://t.me/Miss_Jessica_Robot)
 
 <p align="center">
   <img src="https://telegra.ph/file/dbec3e0aa3acbe2cd31e0.png">
@@ -26,9 +26,9 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/viharasenindu/LexieMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Thilinaweerasekara2003/JessicaMusic)
 
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/viharasenindu/LexieMusic&envs=SESSION_NAME,BOT_TOKEN,BOT_USERNAME,BOT_NAME,SUPPORT_GROUP,PROJECT_NAME,ARQ_API_KEY,ASSISTANT_NAME,BG_IMAGE,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Thilinaweerasekara2003/JessicaMusic=SESSION_NAME,BOT_TOKEN,BOT_USERNAME,BOT_NAME,SUPPORT_GROUP,PROJECT_NAME,ARQ_API_KEY,ASSISTANT_NAME,BG_IMAGE,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
 
 Get pyrogram (p)  `SESSION` from here:
 
@@ -108,10 +108,10 @@ If you donlt like to play in linked channel:
 + Sudo Users can execute any command in any groups
 
 ### Support Group 
-<a href="https://t.me/lexiesupport"><img src="https://img.shields.io/badge/Telegram-Join%20Support%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/HITecRobot"><img src="https://img.shields.io/badge/Telegram-Join%20Support%20Group-blue.svg?logo=telegram"></a>
 
 ### Updates Channel
-<a href="https://t.me/Lexiebotupdate"><img src="https://img.shields.io/badge/Telegram-Join%20Updates%20Channel-blue.svg?logo=telegram"></a>
+<a href="https://t.me/hitecobotchanal"><img src="https://img.shields.io/badge/Telegram-Join%20Updates%20Channel-blue.svg?logo=telegram"></a>
  
 
 ### Credits
