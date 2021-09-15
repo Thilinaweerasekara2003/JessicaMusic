@@ -37,8 +37,8 @@ Get pyrogram (p)  `SESSION` from here:
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/viharasenindu/LexieMusic
-$ cd LexieMusic
+$ git clone https://github.com/Thilinaweerasekara2003/JessicaMusic
+$ cd JessicaMusic
 # Upgrade sources
 # Install All Requirements 
 $ pip3 install -r requirements.txt
