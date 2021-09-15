@@ -1,4 +1,4 @@
-<h1 align="centre" Jessica MUSIC</h1>
+<h1 align="centre"JessicaMUSIC</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [Thilina Weerasekara](https://github.com/ThilinaWeerasekara)
