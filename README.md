@@ -4,7 +4,7 @@
 #### POWERED BY [Thilina Weerasekara](https://github.com/ThilinaWeerasekara)
 ### Available on telegram as [@Miss_Jessica_Robot](https://t.me/Miss_Jessica_Robot)
 
-<p align="center">
+<p align="Center">
   <img src="https://telegra.ph/file/cc3cd42578681f6916295.jpg">
 </p>
 
